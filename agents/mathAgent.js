@@ -1,7 +1,4 @@
 import { ChatVertexAI } from '@langchain/google-vertexai';
-import dotenv from 'dotenv';
-
-// dotenv.config();
 process.env.GOOGLE_APPLICATION_CREDENTIALS = 'F:/Dice/ai-backend-task/gemini_key.json';  
 
 const add = (a, b) => a + b;
