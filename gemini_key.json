@@ -1,0 +1,13 @@
+{
+	"type": "service_account",
+	"project_id": "shining-energy-437411-i9",
+	"private_key_id": "88ac0cc4aa460ebb57fd315268c5c8e1a60f07bd",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDZ4t0ZKETI21SI\nB5GM2E7/5TCl4G9+a0zmgNBsbtS9LdIYCCNmhUYUyPXZVpb0Z59NiHaU/eepB5+V\nW2QeEsAC59C3BFekUPp3o+udQnMfJWq/R7c4d+PH4fe8VlS9++y9FRnfOOmVt8Pu\nCLfKYnUCfdglwQ3pRG/Z8xQT5jOCkivH65mGyX/xbThVMRRqEoNKbH/g+N2bpcHu\n5D7kNt6tGrByqfPZnzvoDcMy47pxAE1Ohm94w0NaWK+6oGy4UyI1y7XjbxgQTN7F\napIlbxqCqrwTihFms/hXPkptjItFYAAwJbsHRKkGXXmg2FmzzfAh3chI/AHA1Nt0\n03UgBF0VAgMBAAECgf9Y7ipJ4HHplWsMoIQaB8Htncu6Se/KIFzqbseWz7HmhQ0y\nHUTPkFLozXJ+p1XjWTcvFbeBc8tBkNHX1/6UU+gpeDFr1wGAz5ioNjx3s0kGgrX5\nxCQNXxJxsKGgm9joaQYoGoPxv7/H2Ocokton7lbmEgNaonRLGb8r3ZQUTjNELG1D\nrFXDHmbv1BZvqM5U5d7vHy+xKlk1C+K5AeL5QjqpaRrLioKoaFd6rcO/fGn6MoNL\nqXaReIHMZhu78flrc7JDSflp0V+bfpUvO/nL8lY6Hx6JNL4Mc+ed0chFZ+USYogF\np2PcbPsOKmuSyd/1z5FLPxMKaZpjsvT7VhfnihECgYEA8Tn+R1tblIHYSwIyKNzZ\ncQ6nSMEB11T1cbwkxEPirN4gbgd/mL/ag3rVsbEtShpoKUkuS5TG9TubBlAv+SD7\nEsejoLxnHjmYVCKcwQSHilHOK/Y5k/teSXGt1dpNNiXJuwPNUxyqrEyyhT9CKIs0\na7VBw2mKAgHXmVR9luvaxQUCgYEA5zrvUstv2b21tZQ/+2lQfgJjLmwiNZORfU1Z\nGNidjIJOC6n0jWwplNuJjBnCaKtubTCFU/K7Kl9fXAfAloOpcaKEuEjR9Kewx5+b\nOkIzCqWD81WY9YwbbxWbfsQUMjTsQ8SNaeR2CGFXTgndi4V6y2xHHYQJ10fUmLBY\nIkX6tNECgYA20kU1lk+TyoaLVW5s1vQbu4bNBAAVHdvCA04fxIXJX5njJ5UZ89AH\nPW0/OtLeGm49o8H/r0ogBXHP131vks08kV5gczDEL7asuEkDnLHo/3pph0XCmcft\nzQYCqeAORDw6YjzRfJxVGAEiQyQX7rr1F3ZgoKWamyySTh9UozlOuQKBgQC1gqDd\nGE772JysJey3uSrzT4J1rXKJJga+GpqHE3tREfSb2VTcMvzNGix16r6eFXxAgCcZ\nB+B+WZFsl7VJMZ8wUYfndVpCt+PgP9zFNbQFdnoG6LmCfvIGGCsQrnDAHKUeaUss\nxacV2vuCieH8JNKInr2QYNasxHkRRtRYSyCLEQKBgD1bv1HBubrnEBlUMC5+MH/R\nSY6uJbKDRmVYI4lxrhbO34OlIcgh+uOOKVqtpp1S55zaBRz2KBC32QVBmHS3apLw\nOnY7uSGIi0a+hBYZpGaFWXe3+5J0A63x1k2BKkB2OlIY/iB+PU4FR49EAOk/fAjb\nOBVwUnzqEA2UFJn+jo92\n-----END PRIVATE KEY-----\n",
+	"client_email": "payable-gpt@shining-energy-437411-i9.iam.gserviceaccount.com",
+	"client_id": "104261732529288259396",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/payable-gpt%40shining-energy-437411-i9.iam.gserviceaccount.com",
+	"universe_domain": "googleapis.com"
+}
